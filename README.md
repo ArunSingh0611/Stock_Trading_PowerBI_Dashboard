@@ -1,2 +1,2 @@
-# PowerBI_dashboard_Project
+# Stock Trading Dashboard
 Stock market chart analaysis
